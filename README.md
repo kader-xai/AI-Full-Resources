@@ -8,8 +8,6 @@ This repository is a curated path through the best free tutorials, courses, book
 
 > 📌 **How to use this:** Work top-to-bottom. Each phase builds on the one before it. Don't jump to Transformers before you understand Neural Networks; don't start Neural Networks before you're comfortable with the math and Python basics. Pick **one** resource per topic, finish it, then move on.
 
-Original compilation by **[Navaneeth Malingan](https://www.linkedin.com/in/nivu/)** ([Instagram](https://www.instagram.com/nivu.me/)) — this is a reorganized, learning-sequenced fork.
-
 ---
 
 ## 🗺️ Learning Roadmap (Table of Contents)
@@ -59,7 +57,6 @@ Original compilation by **[Navaneeth Malingan](https://www.linkedin.com/in/nivu/
 
 ### Math for Machine Learning
 
-- [Mathematics for Machine Learning](https://nivu.me/posts/mathematics-for-machine-learning/) _Compiled MOOCs, YouTube lectures and books for the math you need._
 - [Mathematics for Machine Learning — Book (free eBook)](https://mml-book.github.io/) _One great book for all things math for ML._
 - **Highly recommended — 3Blue1Brown visual series:**
   - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ▶️
@@ -152,7 +149,6 @@ Original compilation by **[Navaneeth Malingan](https://www.linkedin.com/in/nivu/
 ### 2. Gradient Descent (the engine behind training)
 
 **The Best**
-- [Linear Regression using Gradient Descent](https://nivu.me/posts/linear-regression-using-gradient-descent) 📙
 - [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) ▶️
 - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) ▶️
 - [How Optimization Works](https://end-to-end-machine-learning.teachable.com/p/building-blocks-how-optimization-works)
@@ -558,15 +554,6 @@ These authors created many of the best tutorials linked throughout this repo:
 
 ### Communities to Follow
 
-- [AI Coimbatore](https://www.meetup.com/AICoimbatore/) — [Telegram](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw) · [Facebook](https://www.facebook.com/groups/440187506472896/)
-- [TensorFlow User Group Coimbatore](https://www.tensorflow.org/community/groups) — [Meetup](https://www.meetup.com/TFUGCbe/) · [Facebook](https://www.facebook.com/groups/2425901487658992/)
+- [Machine Learning Riyadh](https://www.meetup.com/g/machine-learning-group-riyadh/) 
 
 ---
-
-## 🙏 Credits
-
-This is a **reorganized, learning-sequenced** version of the *"Ultimate Compilation of AI Resources for Mathematics, Machine Learning and Deep Learning"* originally created and maintained by **[Navaneeth Malingan](https://www.linkedin.com/in/nivu/)**. All original links and attribution are preserved — only the ordering has been restructured for a beginner-to-advanced learning journey.
-
-> _"Knowledge Not Shared is wasted."_
-
-⭐ If this helped you, star the repo and share it with a fellow learner.
