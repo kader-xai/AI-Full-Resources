@@ -4,12 +4,6 @@
 
 > _"Knowledge Not Shared is wasted." — Clan Jacobs_
 
-This repository is a curated path through the best free tutorials, courses, books, papers and videos for learning AI — **reorganized into the order you should actually learn them**, from absolute beginner to advanced specialization.
-
-> 📌 **How to use this:** Work top-to-bottom. Each phase builds on the one before it. Don't jump to Transformers before you understand Neural Networks; don't start Neural Networks before you're comfortable with the math and Python basics. Pick **one** resource per topic, finish it, then move on.
-
----
-
 ## 🗺️ Learning Roadmap (Table of Contents)
 
 | Phase | Focus | Topics |
