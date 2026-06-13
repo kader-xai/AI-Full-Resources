@@ -548,6 +548,6 @@ These authors created many of the best tutorials linked throughout this repo:
 
 ### Communities to Follow
 
-- [Machine Learning Riyadh](https://www.meetup.com/g/machine-learning-group-riyadh/) 
+- [Machine Learning Riyadh](https://www.meetup.com/machine-learning-group-riyadh) 
 
 ---
